@@ -1,0 +1,172 @@
+@-ms-viewport
+{
+	width: 380px;
+}
+
+@-webkit-viewport
+{
+	width: 380px;
+}
+
+@-o-viewport
+{
+	width: 380px;
+}
+
+@-moz-viewport
+{
+	width: 380px;
+}
+
+@viewport
+{
+	width: 380px;
+}
+
+.html
+{
+	background-color: #7F7F7F;
+}
+
+#page
+{
+	z-index: 1;
+	width: 380px;
+	min-height: 569.95px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: #FFC000;
+	padding-bottom: 0px;
+}
+
+#page_position_content
+{
+	margin-bottom: 23px;
+}
+
+#pu90
+{
+	width: 0.01px;
+	position: relative;
+}
+
+#u90
+{
+	z-index: 3;
+	width: 194px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u95-4
+{
+	z-index: 5;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 105px;
+	left: 194px;
+}
+
+#u101
+{
+	z-index: 9;
+	width: 334px;
+	margin-left: 24px;
+	position: relative;
+}
+
+#u99
+{
+	z-index: 10;
+	width: 334px;
+	border-color: #000000;
+	background-color: #FFFFFF;
+	-moz-border-radius: 25px;
+	-webkit-border-radius: 25px;
+	-khtml-border-radius: 25px;
+	border-radius: 25px;
+	padding-bottom: 19px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u100-4
+{
+	z-index: 11;
+	width: 335px;
+	min-height: 31px;
+	text-align: center;
+	line-height: 29px;
+	font-size: 24px;
+	font-weight: bold;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 19px;
+	left: -1px;
+}
+
+#u102
+{
+	z-index: 15;
+	width: 374px;
+	min-height: 144px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	margin-top: 17px;
+	position: relative;
+}
+
+#u107
+{
+	z-index: 2;
+	width: 335px;
+	border-color: #000000;
+	background-color: #FFFFFF;
+	position: relative;
+	margin-top: 19px;
+	padding: 7px 25px 29.049999999999045px 20px;
+}
+
+#u108-4
+{
+	z-index: 17;
+	display: block;
+	vertical-align: top;
+	position: relative;
+}
+
+#u104
+{
+	z-index: 16;
+	width: 335px;
+	min-height: 100px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	margin-top: 9px;
+	position: relative;
+}
+
+#u110-4
+{
+	z-index: 21;
+	width: 195px;
+	min-height: 29px;
+	text-align: center;
+	color: #FFFFFF;
+	margin-left: 97px;
+	margin-top: 19px;
+	position: relative;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
