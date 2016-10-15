@@ -1,0 +1,46 @@
+<manifest alg="2" build="314" opt="false" iceEnabled="true">
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="396667789" ref="phone>index"/>
+      <file name="app.css" crc="186961143" ref="phone>app"/>
+      <file name="problem.css" crc="299919296" ref="phone>problem"/>
+    </folder>
+    <file name="app.html" crc="3811371791" mt="1476558957928" redirect="true"/>
+    <file name="problem.html" crc="247690949" mt="1476552749045" redirect="true"/>
+    <file name="index.html" crc="3866790480" mt="1476561747046" redirect="true"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="417434784"/>
+    <file name="index.css" crc="3789216953" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:phone>app:phone>problem:phone>index"/>
+    <file name="museutils.js" crc="3865766194" ref="index:phone>app:phone>problem:phone>index"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="index:phone>app:phone>problem:phone>index"/>
+    <file name="pie.js" crc="3827607177" ref="phone>app:phone>index:index"/>
+    <file name="webpro.js" crc="3903299128" ref="phone>problem"/>
+    <file name="form_check.php" crc="4257733307" ref="phone>problem"/>
+    <file name="form_throttle.php" crc="3966014863" ref="phone>problem"/>
+    <file name="form-u139.php" crc="3786564626" ref="phone>problem"/>
+    <file name="jquery.tobrowserwidth.js" crc="3842421675" ref="phone>index"/>
+    <file name="museredirect.js" crc="236897542" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="vexa.jpg" crc="292334523" ref="index"/>
+    <file name="lmaudio watermark.png" crc="4179882692" ref="phone>app:phone>problem:phone>index:index"/>
+    <file name="u87-6.png" crc="3824855254" ref="phone>app"/>
+    <file name="u150-17.png" crc="236349253" ref="phone>problem"/>
+    <file name="u150-17-r.png" crc="401733888" ref="phone>problem"/>
+    <file name="u150-17-m.png" crc="345933530" ref="phone>problem"/>
+    <file name="u150-17-fs.png" crc="3869785650" ref="phone>problem"/>
+    <file name="u211-6.png" crc="3832309971" ref="phone>index"/>
+    <file name="android.png" crc="3768814397" ref="phone>index:index"/>
+    <file name="windows.png" crc="3969253517" ref="phone>index:index"/>
+    <file name="ios.png" crc="194461357" ref="phone>index:index"/>
+    <file name="windows10_compatible.jpg" crc="371376654" ref="phone>index:index"/>
+    <file name="android_download_badge.png" crc="154020747" ref="phone>index:index"/>
+    <file name="win10.jpg" crc="64359680" ref="phone>index:index"/>
+    <file name="u310-6.png" crc="384443296" ref="index"/>
+  </folder>
+  <file name="index.html" crc="385549580" mt="1476561958394" redirect="true"/>
+</manifest>
