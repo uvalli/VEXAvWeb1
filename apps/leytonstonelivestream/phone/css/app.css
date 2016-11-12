@@ -25,7 +25,7 @@
 
 .html
 {
-	background-color: #7F7F7F;
+	background-color: #FFFFFF;
 }
 
 #page
@@ -36,18 +36,35 @@
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
-	background-color: #0000FF;
+	background-color: #FFFFFF;
 	padding-left: 3px;
 	padding-right: 3px;
 	padding-bottom: 24px;
+}
+
+#pu400
+{
+	width: 0.01px;
+	margin-left: 10px;
+	position: relative;
+}
+
+#u400
+{
+	z-index: 22;
+	width: 42px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 14px;
 }
 
 #u121
 {
 	z-index: 10;
 	width: 105px;
-	margin-left: 134px;
 	position: relative;
+	margin-right: -10000px;
+	left: 124px;
 }
 
 #u87-6
@@ -81,7 +98,7 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #FFFFFF;
+	color: #000000;
 	font-size: 14px;
 	text-align: center;
 	line-height: 17px;
@@ -105,7 +122,7 @@
 	z-index: 17;
 	width: 130px;
 	border-color: #000000;
-	background-color: #FFFFFF;
+	background-color: #000000;
 	-moz-border-radius: 25px;
 	-webkit-border-radius: 25px;
 	-khtml-border-radius: 25px;
@@ -121,6 +138,7 @@
 	width: 130px;
 	min-height: 19px;
 	text-align: center;
+	color: #FFFFFF;
 	line-height: 22px;
 	font-size: 18px;
 	font-weight: bold;
@@ -135,7 +153,7 @@
 	width: 195px;
 	min-height: 29px;
 	text-align: center;
-	color: #FFFFFF;
+	color: #000000;
 	margin-left: 93px;
 	margin-top: 18px;
 	position: relative;
