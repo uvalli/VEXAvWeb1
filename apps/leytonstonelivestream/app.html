@@ -14,7 +14,7 @@
   <link media="only screen and (max-device-width: 370px)" rel="alternate" href="http://vexavweb.tk/phone/app.html"/>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?417434784"/>
-  <link rel="stylesheet" type="text/css" href="css/app.css?113855818" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/app.css?3973621118" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    document.documentElement.className += ' js';
@@ -37,21 +37,7 @@
     <img class="block" id="u480_img" src="images/lmaudio%20logo2.jpg" alt="" width="62" height="62"/>
    </div>
    <div class="rgba-background" id="u462"><!-- simple frame --></div>
-   <div class="clearfix grpelem" id="pu415"><!-- column -->
-    <div class="colelem" id="u415"><!-- custom html -->
-     </br>Stream Status: <script src="http://scripts.myradiostream.com/s41/27464/status.js"></script>
-</br></br>
-Audience Size: <script src="http://scripts.myradiostream.com/s41/27464/listeners.js"></script>
-
-
-</div>
-    <div class="clearfix colelem" id="pu412-6"><!-- group -->
-     <img class="grpelem" id="u412-6" src="images/u412-6.png" alt="Leytonstone
-Live Stream" width="418" height="129"/><!-- rasterized frame -->
-     <div class="grpelem" id="u413"><!-- custom html -->
-      <script src="http://myradiostream.com/webplayer/489796.js"></script>
-</div>
-    </div>
+   <div class="clearfix grpelem" id="ppu441"><!-- column -->
     <div class="clearfix colelem" id="pu441"><!-- group -->
      <div class="clearfix grpelem" id="u441"><!-- group -->
       <div class="pointer_cursor rounded-corners clearfix grpelem" id="u442"><!-- group -->
@@ -59,6 +45,41 @@ Live Stream" width="418" height="129"/><!-- rasterized frame -->
        <a class="nonblock nontext clearfix grpelem" id="u443-4" href="index.html"><!-- content --><p>Home</p></a>
       </div>
      </div>
+     <div class="grpelem" id="u415"><!-- custom html -->
+      </br>Stream Status: <script src="http://scripts.myradiostream.com/s41/27464/status.js"></script>
+</br></br>
+Audience Size: <script src="http://scripts.myradiostream.com/s41/27464/listeners.js"></script>
+
+
+</div>
+    </div>
+    <div class="clearfix colelem" id="pu412-6"><!-- group -->
+     <img class="grpelem" id="u412-6" src="images/u412-6.png" alt="Leytonstone
+Live Stream" width="418" height="129"/><!-- rasterized frame -->
+     <div class="grpelem" id="u413"><!-- custom html -->
+      <script src="http://myradiostream.com/webplayer/489796.js"></script>
+</div>
+     <div class="PamphletWidget clearfix grpelem" id="pamphletu713"><!-- none box -->
+      <div class="ThumbGroup clearfix grpelem" id="u714"><!-- none box -->
+       <div class="popup_anchor">
+        <div class="Thumb popup_element rounded-corners clearfix" id="u715"><!-- group -->
+         <a class="nonblock nontext PamphletThumbSelected clearfix grpelem" id="u768-4" href="app.html"><!-- content --><p>Featured Broadcasts</p></a>
+        </div>
+       </div>
+      </div>
+      <div class="popup_anchor" id="u721popup">
+       <div class="ContainerGroup clearfix" id="u721"><!-- stack box -->
+        <div class="Container invi rgba-background clearfix grpelem" id="u722"><!-- column -->
+         <div class="colelem" id="u765"><!-- custom html -->
+          <iframe src="https://calendar.google.com/calendar/embed?title=Featured%20Broadcasts&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=250&amp;wkst=2&amp;hl=en_GB&amp;bgcolor=%23ffffff&amp;src=5p48pvvcccce4j8mtabmra58mg%40group.calendar.google.com&amp;color=%23853104&amp;ctz=Europe%2FLondon" style="border-width:0" width="92%" height="250" frameborder="0" scrolling="no"></iframe>
+</div>
+         <img class="colelem" id="u757-4" src="images/u757-4.png" alt="Leytonstone Live Stream" width="348" height="36"/><!-- rasterized frame -->
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="clearfix colelem" id="pu427"><!-- group -->
      <div class="clearfix grpelem" id="u427"><!-- group -->
       <div class="pointer_cursor MuseLinkActive rounded-corners clearfix grpelem" id="u429"><!-- group -->
        <a class="block" href="app.html"></a>
@@ -87,12 +108,17 @@ Live Stream" width="418" height="129"/><!-- rasterized frame -->
    window.jQuery || document.write('\x3Cscript src="scripts/jquery-1.8.3.min.js" type="text/javascript">\x3C/script>');
 </script>
   <script src="scripts/museutils.js?3865766194" type="text/javascript"></script>
+  <script src="scripts/webpro.js?3903299128" type="text/javascript"></script>
+  <script src="scripts/musewpslideshow.js?138381373" type="text/javascript"></script>
+  <script src="scripts/jquery.museoverlay.js?4250894771" type="text/javascript"></script>
+  <script src="scripts/touchswipe.js?4156838003" type="text/javascript"></script>
   <script src="scripts/jquery.watch.js?4068933136" type="text/javascript"></script>
   <!-- Other scripts -->
   <script type="text/javascript">
    $(document).ready(function() { try {
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
+Muse.Utils.initWidget('#pamphletu713', function(elem) { new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'stack',event:'mouseover',deactivationEvent:'mouseout_both',autoPlay:false,displayInterval:3000,transitionStyle:'fading',transitionDuration:1000,hideAllContentsFirst:true,shuffle:false,enableSwipe:true}); });/* #pamphletu713 */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */

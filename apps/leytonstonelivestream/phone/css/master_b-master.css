@@ -1,0 +1,141 @@
+#u651
+{
+	position: absolute;
+}
+
+#u652
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #999999;
+	background-color: #FFFFFF;
+	background-color: rgba(255, 255, 255, 0.64);
+	position: relative;
+	-pie-background: rgba(255, 255, 255, 0.64);
+}
+
+#u674
+{
+	background-color: #000000;
+	position: relative;
+}
+
+#u674:hover
+{
+	background-color: #999999;
+}
+
+#u674:active
+{
+	background-color: #6B6B6B;
+}
+
+#u677-4
+{
+	text-align: center;
+	line-height: 22px;
+	color: #FFFFFF;
+	font-size: 18px;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	position: relative;
+}
+
+#u657
+{
+	background-color: #000000;
+	position: relative;
+}
+
+#u657:hover
+{
+	background-color: #999999;
+}
+
+#u657:active
+{
+	background-color: #6B6B6B;
+}
+
+#u701
+{
+	background-color: #000000;
+	position: relative;
+}
+
+#u701:hover
+{
+	background-color: #999999;
+}
+
+#u701:active
+{
+	background-color: #6B6B6B;
+}
+
+#u674.MuseMenuActive,#u657.MuseMenuActive,#u701.MuseMenuActive
+{
+	background-color: #000000;
+}
+
+#u659-4,#u702-4
+{
+	text-align: center;
+	line-height: 22px;
+	color: #FFFFFF;
+	font-size: 18px;
+	position: relative;
+}
+
+#u687
+{
+	position: absolute;
+	border-color: #C4C4C4;
+	background: transparent url("../../images/menu-icon284x284.png") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u687:hover
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	border-color: #999999;
+	background-size: cover !important;
+}
+
+#u687.PamphletThumbSelected
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	border-color: #000000;
+	background-color: transparent;
+	background-size: contain !important;
+}
+
+.MenuItem,.PamphletWidget .ThumbGroup .Thumb, .PamphletNextButton, .PamphletPrevButton, .PamphletCloseButton /* unifiedNavBar */
+{
+	cursor: pointer;
+}
+
+#u639
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #FFFFFF;
+	background-color: rgba(255, 255, 255, 0.64);
+	position: relative;
+	-pie-background: rgba(255, 255, 255, 0.64);
+}
+
+#pamphletu643,#menuu653,#u673,#u654,#u700,#u686,#u641
+{
+	position: relative;
+}
+
+#u680-4,#u681-6,#u640-6
+{
+	display: block;
+	vertical-align: top;
+	position: relative;
+}
+

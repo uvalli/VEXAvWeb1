@@ -44,13 +44,58 @@
 	-pie-background: rgba(0, 0, 0, 0.49);
 }
 
-#pu415
+#ppu441
 {
 	width: 0.01px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 20px;
 	left: 20px;
+}
+
+#pu441
+{
+	width: 0.01px;
+	margin-left: 57px;
+	position: relative;
+}
+
+#u441
+{
+	z-index: 27;
+	width: 130px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u442
+{
+	z-index: 28;
+	width: 130px;
+	border-color: #000000;
+	background-color: #000000;
+	-moz-border-radius: 25px;
+	-webkit-border-radius: 25px;
+	-khtml-border-radius: 25px;
+	border-radius: 25px;
+	padding-bottom: 4px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u443-4
+{
+	z-index: 29;
+	width: 130px;
+	min-height: 19px;
+	text-align: center;
+	line-height: 22px;
+	color: #FFFFFF;
+	font-size: 18px;
+	font-weight: bold;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 5px;
 }
 
 #u415
@@ -66,8 +111,9 @@
 	text-align: center;
 	line-height: 17px;
 	font-weight: bold;
-	margin-left: 522px;
 	position: relative;
+	margin-right: -10000px;
+	left: 464px;
 }
 
 #pu412-6
@@ -101,50 +147,135 @@
 	left: 410px;
 }
 
-#pu441
+#pamphletu713
 {
+	z-index: 39;
 	width: 0.01px;
-	margin-left: 124px;
-	margin-top: 85px;
-	position: relative;
-}
-
-#u441
-{
-	z-index: 27;
-	width: 130px;
+	height: 326px;
+	padding-bottom: 5px;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 29px;
+	left: 466px;
 }
 
-#u442
+#u714
 {
-	z-index: 28;
-	width: 130px;
+	z-index: 40;
+	width: 213px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 304px;
+	left: 84px;
+}
+
+#u715
+{
+	position: absolute;
+	width: 213px;
 	border-color: #000000;
 	background-color: #000000;
 	-moz-border-radius: 25px;
 	-webkit-border-radius: 25px;
 	-khtml-border-radius: 25px;
 	border-radius: 25px;
-	padding-bottom: 4px;
-	position: relative;
-	margin-right: -10000px;
+	padding-bottom: 5px;
+	top: -4px;
 }
 
-#u443-4
+#u715:hover
 {
-	z-index: 29;
-	width: 130px;
+	border-color: #999999;
+	margin: 0px;
+}
+
+#u715.PamphletThumbSelected
+{
+	border-color: #000000;
+	background-color: #000000;
+	-moz-border-radius: 25px;
+	-webkit-border-radius: 25px;
+	-khtml-border-radius: 25px;
+	border-radius: 25px;
+	margin: 0px;
+}
+
+#u768-4
+{
+	z-index: 42;
+	width: 213px;
 	min-height: 19px;
 	text-align: center;
-	color: #FFFFFF;
 	line-height: 22px;
+	color: #FFFFFF;
 	font-size: 18px;
 	font-weight: bold;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 5px;
+	margin-top: 4px;
+}
+
+#u721
+{
+	position: absolute;
+	width: 381px;
+}
+
+#u721popup
+{
+	z-index: 46;
+}
+
+#u722
+{
+	z-index: 47;
+	width: 376px;
+	height: 290px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #999999;
+	background-color: #FFFFFF;
+	background-color: rgba(255, 255, 255, 0.64);
+	padding-left: 3px;
+	padding-top: 8px;
+	margin-right: -10000px;
+	position: relative;
+	-pie-background: rgba(255, 255, 255, 0.64);
+}
+
+#u765
+{
+	z-index: 52;
+	width: 376px;
+	min-height: 254px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	position: relative;
+}
+
+#u757-4
+{
+	z-index: 48;
+	display: block;
+	vertical-align: top;
+	margin-left: 12px;
+	position: relative;
+}
+
+.PamphletWidget .ThumbGroup .Thumb, .PamphletNextButton, .PamphletPrevButton, .PamphletCloseButton /* pamphlet2 */
+{
+	cursor: pointer;
+}
+
+#pu427
+{
+	width: 0.01px;
+	margin-left: 58px;
+	top: -30px;
+	margin-bottom: -30px;
+	position: relative;
 }
 
 #u427
@@ -153,7 +284,6 @@
 	width: 212px;
 	position: relative;
 	margin-right: -10000px;
-	left: 180px;
 }
 
 #u429
@@ -177,8 +307,8 @@
 	width: 213px;
 	min-height: 19px;
 	text-align: center;
-	color: #FFFFFF;
 	line-height: 22px;
+	color: #FFFFFF;
 	font-size: 18px;
 	font-weight: bold;
 	position: relative;
@@ -193,7 +323,7 @@
 	width: 130px;
 	position: relative;
 	margin-right: -10000px;
-	left: 442px;
+	left: 288px;
 }
 
 #u422
@@ -217,8 +347,8 @@
 	width: 130px;
 	min-height: 19px;
 	text-align: center;
-	color: #FFFFFF;
 	line-height: 22px;
+	color: #FFFFFF;
 	font-size: 18px;
 	font-weight: bold;
 	position: relative;

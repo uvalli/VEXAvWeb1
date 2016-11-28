@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://vexavweb.tk/phone/problem.html</loc>
+    <lastmod>2016-11-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://vexavweb.tk/phone/featured-broadcasts.html</loc>
+    <lastmod>2016-11-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://vexavweb.tk/scripts/form_check.php</loc>
     <lastmod>2016-11-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -25,7 +37,31 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://vexavweb.tk/images/u87-6.png</loc>
+    <loc>http://vexavweb.tk/images/isfahan_lotfollah_mosque_ceiling_symmetric.jpg</loc>
+    <lastmod>2016-11-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://vexavweb.tk/images/u680-4.png</loc>
+    <lastmod>2016-11-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://vexavweb.tk/images/u681-6.png</loc>
+    <lastmod>2016-11-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://vexavweb.tk/images/menu-icon284x284.png</loc>
+    <lastmod>2016-11-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://vexavweb.tk/images/u640-6.png</loc>
     <lastmod>2016-11-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -109,36 +145,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://vexavweb.tk/images/u412-6.png</loc>
-    <lastmod>2016-11-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://vexavweb.tk/images/u445-4.png</loc>
-    <lastmod>2016-11-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://vexavweb.tk/images/isfahan_lotfollah_mosque_ceiling_symmetric.jpg</loc>
-    <lastmod>2016-11-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://vexavweb.tk/images/u611-4.png</loc>
-    <lastmod>2016-11-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://vexavweb.tk/images/menu-icon-u493-fr.png</loc>
-    <lastmod>2016-11-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://vexavweb.tk/images/isfahan_lotfollah_mosque_ceiling_symmetric-page-fr.jpg</loc>
     <lastmod>2016-11-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -151,8 +157,20 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://vexavweb.tk/phone/problem.html</loc>
-    <lastmod>2016-11-27</lastmod>
+    <loc>http://vexavweb.tk/images/u412-6.png</loc>
+    <lastmod>2016-11-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://vexavweb.tk/images/u757-4.png</loc>
+    <lastmod>2016-11-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://vexavweb.tk/images/u445-4.png</loc>
+    <lastmod>2016-11-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
