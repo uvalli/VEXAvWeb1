@@ -4,18 +4,18 @@
       <file name="master_b-master.css" crc="4290014208" ref="phone>app:phone>featured-broadcasts"/>
       <file name="app.css" crc="319884413" ref="phone>app"/>
       <file name="problem.css" crc="3899477764" ref="phone>problem"/>
-      <file name="index.css" crc="522304990" ref="phone>index"/>
+      <file name="index.css" crc="3926471137" ref="phone>index"/>
       <file name="featured-broadcasts.css" crc="3927882016" ref="phone>featured-broadcasts"/>
     </folder>
     <file name="app.html" crc="442074619" mt="1480369524831" redirect="true"/>
     <file name="problem.html" crc="247690949" mt="1480368931716" redirect="true"/>
-    <file name="index.html" crc="3906563324" mt="1478956121083" redirect="true"/>
+    <file name="index.html" crc="514731088" mt="1480373712098" redirect="true"/>
     <file name="featured-broadcasts.html" crc="4102532979" mt="1480369843976" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="417434784"/>
-    <file name="index.css" crc="3842636952" ref="index"/>
-    <file name="app.css" crc="3973621118" ref="app"/>
+    <file name="index.css" crc="220190407" ref="index"/>
+    <file name="app.css" crc="434041730" ref="app"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:phone>app:phone>problem:phone>index:phone>featured-broadcasts:app"/>
@@ -60,6 +60,6 @@
     <file name="u757-4.png" crc="3936504582" ref="app"/>
     <file name="u445-4.png" crc="3786583923" ref="app"/>
   </folder>
-  <file name="index.html" crc="3899695638" mt="1480368831193" redirect="true"/>
-  <file name="app.html" crc="16697039" mt="1480370697845" redirect="true"/>
+  <file name="index.html" crc="480666328" mt="1480373669148" redirect="true"/>
+  <file name="app.html" crc="16697039" mt="1480371675115" redirect="true"/>
 </manifest>
