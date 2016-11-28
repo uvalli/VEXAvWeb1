@@ -39,10 +39,10 @@
     <file name="u310-6.png" crc="384443296" ref="index"/>
     <file name="u412-6.png" crc="375279353" ref="app"/>
     <file name="u445-4.png" crc="3786583923" ref="app"/>
-    <file name="isfahan_lotfollah_mosque_ceiling_symmetric.jpg" crc="3784822476" ref="phone>app:app"/>
+    <file name="isfahan_lotfollah_mosque_ceiling_symmetric.jpg" crc="4035192771" ref="phone>app:app"/>
     <file name="u611-4.png" crc="3936504582" ref="phone>app"/>
     <file name="menu-icon-u493-fr.png" crc="3911361872" ref="phone>app"/>
-    <file name="isfahan_lotfollah_mosque_ceiling_symmetric-page-fr.jpg" crc="4236352307" ref="app"/>
+    <file name="isfahan_lotfollah_mosque_ceiling_symmetric-page-fr.jpg" crc="3963110998" ref="app"/>
     <file name="lmaudio logo2.jpg" crc="158327559" ref="app"/>
   </folder>
   <folder name="phone">
@@ -51,10 +51,10 @@
       <file name="index.css" crc="3926471137" ref="phone>index"/>
       <file name="app.css" crc="3896216219" ref="phone>app"/>
     </folder>
-    <file name="app.html" crc="303645890" mt="1480357356493" redirect="true"/>
+    <file name="app.html" crc="303645890" mt="1480358311963" redirect="true"/>
     <file name="problem.html" crc="247690949" mt="1480290169746" redirect="true"/>
     <file name="index.html" crc="3906563324" mt="1478956121083" redirect="true"/>
   </folder>
   <file name="index.html" crc="3899695638" mt="1480357086391" redirect="true"/>
-  <file name="app.html" crc="3955544690" mt="1480202483049" redirect="true"/>
+  <file name="app.html" crc="3955544690" mt="1480358340729" redirect="true"/>
 </manifest>
