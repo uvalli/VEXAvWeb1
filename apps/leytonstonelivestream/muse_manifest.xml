@@ -1,25 +1,29 @@
 <manifest alg="2" build="314" opt="false" iceEnabled="true">
   <folder name="css">
     <file name="site_global.css" crc="417434784"/>
-    <file name="index.css" crc="164427494" ref="index"/>
-    <file name="app.css" crc="238002909" ref="app"/>
+    <file name="index.css" crc="220190407" ref="index"/>
+    <file name="app.css" crc="113855818" ref="app"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>app:phone>problem:phone>index:index:app"/>
     <file name="museutils.js" crc="3865766194" ref="phone>app:phone>problem:phone>index:index:app"/>
     <file name="pie.js" crc="3827607177" ref="phone>app:phone>index:index:app"/>
     <file name="jquery.watch.js" crc="4068933136" ref="phone>app:phone>problem:phone>index:index:app"/>
-    <file name="webpro.js" crc="3903299128" ref="phone>problem"/>
+    <file name="webpro.js" crc="3903299128" ref="phone>problem:phone>app"/>
     <file name="form_check.php" crc="4257733307" ref="phone>problem"/>
     <file name="form_throttle.php" crc="3966014863" ref="phone>problem"/>
     <file name="form-u139.php" crc="3786564626" ref="phone>problem"/>
-    <file name="jquery.tobrowserwidth.js" crc="3842421675" ref="phone>index"/>
+    <file name="jquery.tobrowserwidth.js" crc="3842421675" ref="phone>index:phone>app"/>
     <file name="museredirect.js" crc="236897542" ref="index:app"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="291134478" ref="phone>app"/>
+    <file name="jquery.musemenu.js" crc="3788803530" ref="phone>app"/>
+    <file name="musewpslideshow.js" crc="138381373" ref="phone>app"/>
+    <file name="jquery.museoverlay.js" crc="4250894771" ref="phone>app"/>
+    <file name="touchswipe.js" crc="4156838003" ref="phone>app"/>
   </folder>
   <folder name="images">
-    <file name="pasted image 626x626.jpg" crc="4177493363" ref="phone>app"/>
     <file name="lmaudio watermark.png" crc="4179882692" ref="phone>app:phone>problem:phone>index:index"/>
-    <file name="u87-6.png" crc="4004789219" ref="phone>app"/>
+    <file name="u87-6.png" crc="3824855254" ref="phone>app"/>
     <file name="u150-17.png" crc="236349253" ref="phone>problem"/>
     <file name="u150-17-r.png" crc="401733888" ref="phone>problem"/>
     <file name="u150-17-m.png" crc="345933530" ref="phone>problem"/>
@@ -33,20 +37,24 @@
     <file name="win10.jpg" crc="64359680" ref="phone>index:index"/>
     <file name="vexa.jpg" crc="292334523" ref="index"/>
     <file name="u310-6.png" crc="384443296" ref="index"/>
-    <file name="lmaudio logo.jpg" crc="218775433" ref="app"/>
-    <file name="u412-6.png" crc="4219168234" ref="app"/>
+    <file name="u412-6.png" crc="375279353" ref="app"/>
     <file name="u445-4.png" crc="3786583923" ref="app"/>
+    <file name="isfahan_lotfollah_mosque_ceiling_symmetric.jpg" crc="3784822476" ref="phone>app:app"/>
+    <file name="u611-4.png" crc="3936504582" ref="phone>app"/>
+    <file name="menu-icon-u493-fr.png" crc="3911361872" ref="phone>app"/>
+    <file name="isfahan_lotfollah_mosque_ceiling_symmetric-page-fr.jpg" crc="4236352307" ref="app"/>
+    <file name="lmaudio logo2.jpg" crc="158327559" ref="app"/>
   </folder>
   <folder name="phone">
     <folder name="css">
       <file name="problem.css" crc="468171520" ref="phone>problem"/>
       <file name="index.css" crc="3926471137" ref="phone>index"/>
-      <file name="app.css" crc="4223846833" ref="phone>app"/>
+      <file name="app.css" crc="3896216219" ref="phone>app"/>
     </folder>
-    <file name="app.html" crc="4084162590" mt="1478955031133" redirect="true"/>
-    <file name="problem.html" crc="247690949" mt="1478954765279" redirect="true"/>
+    <file name="app.html" crc="303645890" mt="1480357356493" redirect="true"/>
+    <file name="problem.html" crc="247690949" mt="1480290169746" redirect="true"/>
     <file name="index.html" crc="3906563324" mt="1478956121083" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4028053855" mt="1478956095447" redirect="true"/>
-  <file name="app.html" crc="303480608" mt="1478955043814" redirect="true"/>
+  <file name="index.html" crc="3899695638" mt="1480357086391" redirect="true"/>
+  <file name="app.html" crc="3955544690" mt="1480202483049" redirect="true"/>
 </manifest>

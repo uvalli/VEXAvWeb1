@@ -7,72 +7,79 @@
 {
 	z-index: 1;
 	width: 860px;
-	min-height: 399.6369574251073px;
-	background-image: none;
+	min-height: 400px;
 	border-style: none;
 	border-color: #000000;
-	background-color: #FFFFFF;
-	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
+	background: #FFFFFF url("../images/isfahan_lotfollah_mosque_ceiling_symmetric-page-fr.jpg") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/isfahan_lotfollah_mosque_ceiling_symmetric.jpg") no-repeat center center;
+	background-color: #FFFFFF;
+	background-size: cover !important;
 }
 
-#page_position_content
+#u480
 {
-	margin-top: 2px;
-}
-
-#pu430
-{
-	width: 0.01px;
-	margin-left: 131px;
-	position: relative;
-}
-
-#u430
-{
-	z-index: 26;
-	width: 157px;
+	z-index: 37;
+	width: 62px;
 	position: relative;
 	margin-right: -10000px;
+	left: -62px;
 }
 
-#u430_img
+#u462
 {
-	padding-right: 1px;
-	padding-bottom: 1px;
+	z-index: 2;
+	width: 859px;
+	height: 635px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #828282;
+	background-color: rgba(0, 0, 0, 0.49);
+	position: fixed;
+	top: 23px;
+	left: 50%;
+	margin-left: -430px;
+	-pie-background: rgba(0, 0, 0, 0.49);
+}
+
+#pu415
+{
+	width: 0.01px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 20px;
+	left: 20px;
 }
 
 #u415
 {
-	z-index: 9;
+	z-index: 10;
 	width: 296px;
 	min-height: 100px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #000000;
+	color: #FFFFFF;
 	font-size: 14px;
 	text-align: center;
 	line-height: 17px;
 	font-weight: bold;
+	margin-left: 522px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 18px;
-	left: 411px;
 }
 
 #pu412-6
 {
 	width: 0.01px;
-	margin-left: 20px;
-	margin-top: 15px;
+	margin-top: 57px;
 	position: relative;
 }
 
 #u412-6
 {
-	z-index: 2;
+	z-index: 3;
 	display: block;
 	vertical-align: top;
 	position: relative;
@@ -82,7 +89,7 @@
 
 #u413
 {
-	z-index: 8;
+	z-index: 9;
 	width: 408px;
 	min-height: 244px;
 	border-style: none;
@@ -97,14 +104,14 @@
 #pu441
 {
 	width: 0.01px;
-	margin-left: 144px;
-	margin-top: 84px;
+	margin-left: 124px;
+	margin-top: 85px;
 	position: relative;
 }
 
 #u441
 {
-	z-index: 28;
+	z-index: 27;
 	width: 130px;
 	position: relative;
 	margin-right: -10000px;
@@ -112,7 +119,7 @@
 
 #u442
 {
-	z-index: 29;
+	z-index: 28;
 	width: 130px;
 	border-color: #000000;
 	background-color: #000000;
@@ -127,7 +134,7 @@
 
 #u443-4
 {
-	z-index: 30;
+	z-index: 29;
 	width: 130px;
 	min-height: 19px;
 	text-align: center;
@@ -142,7 +149,7 @@
 
 #u427
 {
-	z-index: 20;
+	z-index: 21;
 	width: 212px;
 	position: relative;
 	margin-right: -10000px;
@@ -151,7 +158,7 @@
 
 #u429
 {
-	z-index: 21;
+	z-index: 22;
 	width: 212px;
 	border-color: #000000;
 	background-color: #000000;
@@ -166,7 +173,7 @@
 
 #u428-4
 {
-	z-index: 22;
+	z-index: 23;
 	width: 213px;
 	min-height: 19px;
 	text-align: center;
@@ -182,7 +189,7 @@
 
 #u420
 {
-	z-index: 14;
+	z-index: 15;
 	width: 130px;
 	position: relative;
 	margin-right: -10000px;
@@ -191,7 +198,7 @@
 
 #u422
 {
-	z-index: 15;
+	z-index: 16;
 	width: 130px;
 	border-color: #000000;
 	background-color: #000000;
@@ -206,7 +213,7 @@
 
 #u421-4
 {
-	z-index: 16;
+	z-index: 17;
 	width: 130px;
 	min-height: 19px;
 	text-align: center;
@@ -219,35 +226,28 @@
 	margin-top: 5px;
 }
 
-#pu445-4
-{
-	width: 0.01px;
-	left: -62px;
-	top: -510px;
-	margin-bottom: -510px;
-	position: relative;
-}
-
 #u445-4
 {
-	z-index: 34;
+	z-index: 33;
 	display: block;
 	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 27px;
+	left: -62px;
 }
 
 #u419-4
 {
-	z-index: 10;
+	z-index: 11;
 	width: 195px;
 	min-height: 29px;
 	text-align: center;
-	color: #000000;
+	color: #FFFFFF;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 543px;
-	left: 385px;
+	margin-top: 570px;
+	left: 323px;
 }
 
 body
@@ -259,5 +259,6 @@ body
 #page .verticalspacer
 {
 	clear: both;
+	margin-bottom: -26px;
 }
 
