@@ -1,0 +1,36 @@
+<manifest alg="2" build="314" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="417434784"/>
+    <file name="master_a-master.css" crc="4256044468" ref="index:fleet-manager:traffic-monitor"/>
+    <file name="index.css" crc="3876653756" ref="index"/>
+    <file name="fleet-manager.css" crc="4244727923" ref="fleet-manager"/>
+    <file name="traffic-monitor.css" crc="4238197625" ref="traffic-monitor"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:fleet-manager:traffic-monitor"/>
+    <file name="museutils.js" crc="3865766194" ref="index:fleet-manager:traffic-monitor"/>
+    <file name="jquery.tobrowserwidth.js" crc="3842421675" ref="index:fleet-manager:traffic-monitor"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="fleet-manager:traffic-monitor"/>
+    <file name="webpro.js" crc="3903299128" ref="index"/>
+    <file name="form_check.php" crc="4257733307" ref="index"/>
+    <file name="form_throttle.php" crc="3966014863" ref="index"/>
+    <file name="form-u124.php" crc="350052698" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="world.png" crc="3815421177" ref="index"/>
+    <file name="logo3.png" crc="534706205" ref="index:fleet-manager:traffic-monitor"/>
+    <file name="u421-8.png" crc="97637593" ref="index:fleet-manager:traffic-monitor"/>
+    <file name="u74-8.png" crc="97637593" ref="index"/>
+    <file name="pasted image 1000x400.jpg" crc="425694302" ref="index"/>
+    <file name="fleetmanager.jpg" crc="364342927" ref="index:fleet-manager"/>
+    <file name="up-u463-fr-u109-fr.png" crc="4220769344" ref="index"/>
+    <file name="u152-17.png" crc="236349253" ref="index"/>
+    <file name="u152-17-r.png" crc="401733888" ref="index"/>
+    <file name="u152-17-m.png" crc="345933530" ref="index"/>
+    <file name="u152-17-fs.png" crc="3869785650" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3767199483" mt="1474392655116" redirect="true"/>
+  <file name="fleet-manager.html" crc="3859599372" mt="1474392655116" redirect="true"/>
+  <file name="traffic-monitor.html" crc="4216984217" mt="1474394191038" redirect="true"/>
+</manifest>

@@ -1,0 +1,153 @@
+.html
+{
+	background-color: #1B1464;
+}
+
+#page
+{
+	z-index: 1;
+	width: 800px;
+	min-height: 500px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: #1B1464;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	margin-top: 20px;
+	margin-bottom: 49px;
+}
+
+#pu420
+{
+	width: 0.01px;
+	left: -100px;
+	position: relative;
+}
+
+#u420
+{
+	z-index: 2;
+	width: 760px;
+	padding-bottom: 2px;
+	margin-right: -10000px;
+	left: 120px;
+}
+
+#u422
+{
+	z-index: 11;
+	width: 51px;
+	margin-right: -10000px;
+	margin-top: 5px;
+	left: 57px;
+}
+
+#u421-8
+{
+	z-index: 3;
+	margin-right: -10000px;
+	left: 242px;
+}
+
+#u494
+{
+	z-index: 15;
+	width: 66px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 52px;
+	left: 22px;
+}
+
+#fleetmanager
+{
+	position: relative;
+	width: 22px;
+	margin-right: -10000px;
+	margin-top: 100px;
+}
+
+#u500
+{
+	z-index: 18;
+	width: 115px;
+	position: relative;
+	margin-right: -10000px;
+	left: 6px;
+}
+
+#u498
+{
+	z-index: 19;
+	width: 113px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #FF0000;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u499-4
+{
+	z-index: 20;
+	width: 89px;
+	min-height: 29px;
+	text-align: center;
+	line-height: 22px;
+	color: #FFFFFF;
+	font-size: 18px;
+	font-weight: bold;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 12px;
+	left: 15px;
+}
+
+#pu424
+{
+	width: 0.01px;
+	left: -100px;
+	margin-top: 2px;
+	position: relative;
+}
+
+#u424
+{
+	z-index: 13;
+	width: 760px;
+	height: 370px;
+	margin-right: -10000px;
+	margin-top: 23px;
+	left: 120px;
+}
+
+#u492
+{
+	z-index: 14;
+	width: 1000px;
+	min-height: 550px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	position: relative;
+	margin-right: -10000px;
+}
+
+body
+{
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
