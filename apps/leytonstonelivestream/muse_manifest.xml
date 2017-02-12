@@ -4,13 +4,13 @@
       <file name="master_b-master.css" crc="161895198" ref="phone>app-online:phone>featured-broadcasts:phone>app"/>
       <file name="problem.css" crc="4121485486" ref="phone>problem"/>
       <file name="app-online.css" crc="146650142" ref="phone>app-online"/>
-      <file name="index.css" crc="4033169150" ref="phone>index"/>
+      <file name="index.css" crc="82433537" ref="phone>index"/>
       <file name="featured-broadcasts.css" crc="128660182" ref="phone>featured-broadcasts"/>
       <file name="app.css" crc="4078759285" ref="phone>app"/>
     </folder>
     <file name="app.html" crc="442074619" mt="1486937883121" redirect="true"/>
     <file name="problem.html" crc="247690949" mt="1480368931716" redirect="true"/>
-    <file name="index.html" crc="43528512" mt="1486939941530" redirect="true"/>
+    <file name="index.html" crc="3992267285" mt="1486940320832" redirect="true"/>
     <file name="featured-broadcasts.html" crc="4102532979" mt="1480369843976" redirect="true"/>
     <file name="app-online.html" crc="3784902112" mt="1486938970096" redirect="true"/>
   </folder>
