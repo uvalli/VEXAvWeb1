@@ -1,0 +1,329 @@
+@-ms-viewport
+{
+	width: 380px;
+}
+
+@-webkit-viewport
+{
+	width: 380px;
+}
+
+@-o-viewport
+{
+	width: 380px;
+}
+
+@-moz-viewport
+{
+	width: 380px;
+}
+
+@viewport
+{
+	width: 380px;
+}
+
+.html
+{
+	background: #7F7F7F url("../../images/isfahan_lotfollah_mosque_ceiling_symmetric.jpg") no-repeat center center scroll;
+	background-size: cover !important;
+}
+
+#page
+{
+	z-index: 1;
+	width: 380px;
+	min-height: 570px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: #494949;
+	background-color: rgba(0, 0, 0, 0.71);
+}
+
+#page_position_content
+{
+	margin-bottom: 24px;
+}
+
+#ppamphletu643
+{
+	width: 0.01px;
+	padding-bottom: 1px;
+	position: relative;
+}
+
+#pamphletu643
+{
+	z-index: 11;
+	width: 0.01px;
+	height: 71px;
+	padding-bottom: 154px;
+	margin-right: -10000px;
+	left: 1px;
+}
+
+#u651popup
+{
+	z-index: 12;
+}
+
+#u651
+{
+	width: 380px;
+	top: 71px;
+}
+
+#u652
+{
+	z-index: 13;
+	width: 373px;
+	height: 145px;
+	padding-left: 2px;
+	padding-top: 8px;
+	padding-right: 3px;
+	margin-right: -10000px;
+}
+
+#menuu653
+{
+	z-index: 14;
+	width: 180px;
+}
+
+#u673
+{
+	width: 180px;
+}
+
+#u674
+{
+	width: 180px;
+	min-height: 22px;
+	padding-bottom: 11px;
+	margin-right: -10000px;
+}
+
+#u674:hover
+{
+	margin: 0px -10000px 0px 0px;
+}
+
+#u674:active
+{
+	margin: 0px -10000px 0px 0px;
+}
+
+#u677-4
+{
+	width: 180px;
+	min-height: 22px;
+	margin-right: -10000px;
+	top: 5px;
+}
+
+#u657
+{
+	width: 180px;
+	min-height: 22px;
+	padding-bottom: 12px;
+	margin-right: -10000px;
+}
+
+#u674.MuseMenuActive,#u657:hover
+{
+	margin: 0px -10000px 0px 0px;
+}
+
+#u657:active
+{
+	margin: 0px -10000px 0px 0px;
+}
+
+#u654,#u700
+{
+	width: 180px;
+	margin-top: 2px;
+}
+
+#u701
+{
+	width: 180px;
+	min-height: 22px;
+	padding-bottom: 12px;
+	margin-right: -10000px;
+}
+
+#u657.MuseMenuActive,#u701:hover
+{
+	margin: 0px -10000px 0px 0px;
+}
+
+#u701:active
+{
+	margin: 0px -10000px 0px 0px;
+}
+
+#u701.MuseMenuActive
+{
+	margin: 0px -10000px 0px 0px;
+}
+
+#u659-4,#u702-4
+{
+	width: 180px;
+	min-height: 22px;
+	margin-right: -10000px;
+	top: 6px;
+}
+
+#u680-4
+{
+	z-index: 39;
+	margin-left: 16px;
+	margin-top: 4px;
+}
+
+#u681-6
+{
+	z-index: 33;
+	margin-left: 186px;
+	top: -145px;
+	margin-bottom: -105px;
+}
+
+#u686
+{
+	z-index: 43;
+	width: 71px;
+	margin-right: -10000px;
+}
+
+#u687
+{
+	width: 71px;
+	height: 71px;
+}
+
+#u687:hover
+{
+	margin: 0px;
+}
+
+#u687.PamphletThumbSelected
+{
+	margin: 0px;
+}
+
+#u639
+{
+	z-index: 2;
+	width: 379px;
+	margin-right: -10000px;
+}
+
+#u641
+{
+	z-index: 9;
+	width: 105px;
+	margin-right: -10000px;
+	margin-top: -1px;
+	left: 136px;
+}
+
+#u640-6
+{
+	z-index: 3;
+	margin-left: 20px;
+	top: -137px;
+	margin-bottom: -107px;
+}
+
+#u91
+{
+	z-index: 45;
+	width: 374px;
+	min-height: 144px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	margin-left: 3px;
+	margin-top: 7px;
+	position: relative;
+}
+
+#u93
+{
+	z-index: 46;
+	width: 296px;
+	min-height: 100px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #FFFFFF;
+	font-size: 14px;
+	text-align: center;
+	line-height: 17px;
+	font-weight: bold;
+	margin-left: 42px;
+	margin-top: 11px;
+	position: relative;
+}
+
+#u134
+{
+	z-index: 51;
+	width: 130px;
+	margin-left: 129px;
+	margin-top: 6px;
+	position: relative;
+}
+
+#u136
+{
+	z-index: 52;
+	width: 130px;
+	border-color: #000000;
+	background-color: #000000;
+	-moz-border-radius: 25px;
+	-webkit-border-radius: 25px;
+	-khtml-border-radius: 25px;
+	border-radius: 25px;
+	padding-bottom: 4px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u135-4
+{
+	z-index: 53;
+	width: 130px;
+	min-height: 19px;
+	text-align: center;
+	color: #FFFFFF;
+	line-height: 22px;
+	font-size: 18px;
+	font-weight: bold;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 5px;
+}
+
+#u127-4
+{
+	z-index: 47;
+	width: 195px;
+	min-height: 29px;
+	text-align: center;
+	color: #FFFFFF;
+	margin-left: 96px;
+	margin-top: 18px;
+	position: relative;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
