@@ -55,11 +55,30 @@
 #u211-6
 {
 	z-index: 3;
-	display: block;
-	vertical-align: top;
+	width: 348px;
+	min-height: 105px;
+	text-align: center;
+	letter-spacing: 1px;
+	color: #FFFFFF;
+	font-family: karla, sans-serif;
+	font-weight: 700;
 	margin-left: 16px;
 	margin-top: 18px;
 	position: relative;
+}
+
+#u211-2
+{
+	font-size: 49px;
+	line-height: 59px;
+	padding-right: 6px;
+}
+
+#u211-4
+{
+	font-size: 30px;
+	line-height: 36px;
+	padding-right: 6px;
 }
 
 #u215-4
@@ -164,14 +183,33 @@
 	margin-top: 5px;
 }
 
+#u874
+{
+	z-index: 126;
+	width: 38px;
+	height: 38px;
+	border-color: #000000;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 133px;
+	left: 310px;
+	background: transparent url("../../images/down-u395-fr.png") no-repeat center center;
+	background-size: contain !important;
+}
+
 #u217
 {
 	z-index: 19;
-	width: 345px;
+	width: 380px;
 	border-color: #000000;
 	background-color: #FFFFFF;
+	padding-bottom: 0px;
 	position: relative;
-	padding: 21px 19px 56.149999999999864px 16px;
+}
+
+#u217_position_content
+{
+	margin-bottom: 56px;
 }
 
 #u219-4
@@ -182,6 +220,8 @@
 	line-height: 23px;
 	font-size: 19px;
 	font-weight: bold;
+	margin-left: 16px;
+	margin-top: 3px;
 	position: relative;
 }
 
@@ -191,7 +231,7 @@
 	width: 327px;
 	min-height: 23px;
 	text-align: center;
-	margin-left: 6px;
+	margin-left: 22px;
 	margin-top: 14px;
 	position: relative;
 }
@@ -204,7 +244,7 @@
 	line-height: 18px;
 	font-size: 15px;
 	font-weight: bold;
-	margin-left: 5px;
+	margin-left: 21px;
 	margin-top: 36px;
 	position: relative;
 }
@@ -212,7 +252,7 @@
 #pu237
 {
 	width: 0.01px;
-	margin-left: 2px;
+	margin-left: 18px;
 	margin-top: 36px;
 	position: relative;
 }
@@ -247,7 +287,7 @@
 {
 	z-index: 28;
 	width: 95px;
-	margin-left: 127px;
+	margin-left: 143px;
 	margin-top: 17px;
 	position: relative;
 }
@@ -265,7 +305,7 @@
 	line-height: 18px;
 	font-size: 15px;
 	font-weight: bold;
-	margin-left: 2px;
+	margin-left: 18px;
 	margin-top: 32px;
 	position: relative;
 }
@@ -274,7 +314,7 @@
 {
 	z-index: 120;
 	width: 342px;
-	margin-left: 3px;
+	margin-left: 19px;
 	margin-top: 23px;
 	position: relative;
 }
@@ -470,7 +510,7 @@
 	position: relative;
 }
 
-#android,#windows,#apple
+#app,#android,#windows,#apple
 {
 	position: relative;
 }

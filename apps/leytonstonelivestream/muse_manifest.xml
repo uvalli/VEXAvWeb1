@@ -4,13 +4,13 @@
       <file name="master_b-master.css" crc="161895198" ref="phone>app-online:phone>featured-broadcasts:phone>app"/>
       <file name="problem.css" crc="4121485486" ref="phone>problem"/>
       <file name="app-online.css" crc="146650142" ref="phone>app-online"/>
-      <file name="index.css" crc="204964842" ref="phone>index"/>
+      <file name="index.css" crc="4033169150" ref="phone>index"/>
       <file name="featured-broadcasts.css" crc="128660182" ref="phone>featured-broadcasts"/>
       <file name="app.css" crc="4078759285" ref="phone>app"/>
     </folder>
     <file name="app.html" crc="442074619" mt="1486937883121" redirect="true"/>
     <file name="problem.html" crc="247690949" mt="1480368931716" redirect="true"/>
-    <file name="index.html" crc="3922042222" mt="1486939252045" redirect="true"/>
+    <file name="index.html" crc="43528512" mt="1486939941530" redirect="true"/>
     <file name="featured-broadcasts.html" crc="4102532979" mt="1480369843976" redirect="true"/>
     <file name="app-online.html" crc="3784902112" mt="1486938970096" redirect="true"/>
   </folder>
@@ -23,7 +23,7 @@
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:phone>app:phone>problem:phone>index:phone>featured-broadcasts:phone>app-online:app"/>
     <file name="museutils.js" crc="3865766194" ref="index:phone>app:phone>problem:phone>index:phone>featured-broadcasts:phone>app-online:app"/>
     <file name="jquery.musemenu.js" crc="3788803530" ref="phone>app:phone>featured-broadcasts:phone>app-online"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="291134478" ref="phone>app:phone>featured-broadcasts:phone>app-online"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="291134478" ref="phone>app:phone>featured-broadcasts:phone>app-online:phone>index"/>
     <file name="pie.js" crc="3827607177" ref="index:phone>app:phone>index:phone>featured-broadcasts:phone>app-online:app"/>
     <file name="webpro.js" crc="3903299128" ref="phone>app:phone>problem:phone>featured-broadcasts:phone>app-online:app"/>
     <file name="musewpslideshow.js" crc="138381373" ref="phone>app:phone>featured-broadcasts:phone>app-online:app"/>
@@ -47,7 +47,6 @@
     <file name="u150-17-r.png" crc="401733888" ref="phone>problem"/>
     <file name="u150-17-m.png" crc="345933530" ref="phone>problem"/>
     <file name="u150-17-fs.png" crc="3869785650" ref="phone>problem"/>
-    <file name="u211-6.png" crc="3832309971" ref="phone>index"/>
     <file name="android.png" crc="3768814397" ref="phone>index:phone>app-online:index"/>
     <file name="windows.png" crc="3969253517" ref="phone>index:phone>app-online:index"/>
     <file name="ios.png" crc="194461357" ref="phone>index:phone>app-online:index"/>
@@ -62,6 +61,7 @@
     <file name="u412-6.png" crc="375279353" ref="app"/>
     <file name="u757-4.png" crc="3936504582" ref="app"/>
     <file name="u445-4.png" crc="3786583923" ref="app"/>
+    <file name="down-u395-fr.png" crc="4127202382" ref="phone>index"/>
   </folder>
   <file name="index.html" crc="480666328" mt="1480373669148" redirect="true"/>
   <file name="app.html" crc="16697039" mt="1480371675115" redirect="true"/>
