@@ -43,7 +43,7 @@
 
 #page_position_content
 {
-	margin-bottom: 24px;
+	margin-bottom: 71px;
 }
 
 #pu639
@@ -63,7 +63,7 @@
 
 #pamphletu643
 {
-	z-index: 21;
+	z-index: 10;
 	width: 0.01px;
 	height: 71px;
 	padding-bottom: 225px;
@@ -73,7 +73,7 @@
 
 #u651popup
 {
-	z-index: 22;
+	z-index: 11;
 }
 
 #u651
@@ -84,7 +84,7 @@
 
 #u652
 {
-	z-index: 23;
+	z-index: 12;
 	width: 373px;
 	height: 205px;
 	margin-right: -10000px;
@@ -93,7 +93,7 @@
 
 #menuu653
 {
-	z-index: 24;
+	z-index: 13;
 	width: 180px;
 }
 
@@ -203,14 +203,14 @@
 
 #u680-4
 {
-	z-index: 57;
+	z-index: 46;
 	margin-left: 16px;
 	margin-top: 14px;
 }
 
 #u681-8
 {
-	z-index: 49;
+	z-index: 38;
 	width: 187px;
 	min-height: 155px;
 	margin-left: 186px;
@@ -220,7 +220,7 @@
 
 #u686
 {
-	z-index: 61;
+	z-index: 50;
 	width: 71px;
 	margin-right: -10000px;
 }
@@ -243,7 +243,7 @@
 
 #u641
 {
-	z-index: 63;
+	z-index: 52;
 	width: 105px;
 	margin-right: -10000px;
 	left: 137px;
@@ -257,87 +257,17 @@
 	margin-bottom: -107px;
 }
 
-#u91
+#u905
 {
 	z-index: 9;
-	width: 374px;
-	min-height: 144px;
+	width: 384px;
+	min-height: 547px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	text-align: center;
-	margin-left: 3px;
-	top: -64px;
-	margin-bottom: -64px;
-	position: relative;
-}
-
-#u93
-{
-	z-index: 10;
-	width: 296px;
-	min-height: 100px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	color: #FFFFFF;
-	font-size: 14px;
-	text-align: center;
-	line-height: 17px;
-	font-weight: bold;
-	margin-left: 42px;
-	margin-top: 11px;
-	position: relative;
-}
-
-#u134
-{
-	z-index: 15;
-	width: 130px;
-	margin-left: 129px;
-	margin-top: 6px;
-	position: relative;
-}
-
-#u136
-{
-	z-index: 16;
-	width: 130px;
-	border-color: #000000;
-	background-color: #000000;
-	-moz-border-radius: 25px;
-	-webkit-border-radius: 25px;
-	-khtml-border-radius: 25px;
-	border-radius: 25px;
-	padding-bottom: 4px;
-	position: relative;
-	margin-right: -10000px;
-}
-
-#u135-4
-{
-	z-index: 17;
-	width: 130px;
-	min-height: 19px;
-	text-align: center;
-	font-size: 18px;
-	color: #FFFFFF;
-	line-height: 22px;
-	font-weight: bold;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 5px;
-}
-
-#u127-4
-{
-	z-index: 11;
-	width: 195px;
-	min-height: 29px;
-	text-align: center;
-	color: #FFFFFF;
-	margin-left: 96px;
-	margin-top: 18px;
+	left: -2px;
+	top: -91px;
+	margin-bottom: -91px;
 	position: relative;
 }
 

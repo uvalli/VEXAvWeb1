@@ -7,7 +7,7 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 499.68749999999955px;
+	min-height: 499.828321123194px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -81,9 +81,9 @@
 	width: 348px;
 	min-height: 22px;
 	text-align: center;
-	color: #FFFFFF;
 	line-height: 20px;
 	font-size: 17px;
+	color: #FFFFFF;
 	margin-left: 302px;
 	margin-top: 6px;
 	position: relative;
@@ -95,9 +95,9 @@
 	width: 920px;
 	min-height: 41px;
 	text-align: center;
-	color: #FFFFFF;
 	line-height: 24px;
 	font-size: 20px;
+	color: #FFFFFF;
 	margin-left: 20px;
 	margin-top: 73px;
 	position: relative;
@@ -184,8 +184,8 @@
 	width: 130px;
 	min-height: 19px;
 	text-align: center;
-	line-height: 22px;
 	font-size: 18px;
+	line-height: 22px;
 	font-weight: bold;
 	position: relative;
 	margin-right: -10000px;
@@ -212,9 +212,9 @@
 	width: 350px;
 	min-height: 27px;
 	text-align: center;
+	font-size: 30px;
 	color: #FFFFFF;
 	line-height: 36px;
-	font-size: 30px;
 	font-weight: bold;
 	position: relative;
 	margin-right: -10000px;
@@ -225,12 +225,12 @@
 #u315
 {
 	z-index: 18;
-	width: 414px;
+	width: 512px;
 	border-color: #000000;
 	background-color: #FFFFFF;
 	position: relative;
 	margin-right: -10000px;
-	padding: 21px 105px 61px 21px;
+	padding: 21px 7px 61px 21px;
 }
 
 #u317-4
@@ -255,6 +255,46 @@
 	position: relative;
 }
 
+#u913
+{
+	z-index: 129;
+	width: 203px;
+	margin-left: 309px;
+	margin-top: 20px;
+	position: relative;
+}
+
+#u914
+{
+	z-index: 130;
+	width: 203px;
+	border-color: #000000;
+	background-color: #15B600;
+	-moz-border-radius: 25px;
+	-webkit-border-radius: 25px;
+	-khtml-border-radius: 25px;
+	border-radius: 25px;
+	padding-bottom: 7px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u915-4
+{
+	z-index: 131;
+	width: 204px;
+	min-height: 19px;
+	text-align: center;
+	font-size: 16px;
+	color: #FFFFFF;
+	line-height: 19px;
+	font-weight: bold;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 5px;
+	left: -1px;
+}
+
 #u327-4
 {
 	z-index: 36;
@@ -263,7 +303,7 @@
 	line-height: 18px;
 	font-size: 15px;
 	font-weight: bold;
-	margin-top: 58px;
+	margin-top: 7px;
 	position: relative;
 }
 
@@ -331,13 +371,6 @@
 	left: 352px;
 }
 
-#pu328
-{
-	width: 0.01px;
-	margin-left: 20px;
-	position: relative;
-}
-
 #u328
 {
 	z-index: 40;
@@ -365,9 +398,9 @@
 	z-index: 43;
 	width: 223px;
 	min-height: 27px;
-	color: #000000;
 	line-height: 25px;
 	font-size: 21px;
+	color: #000000;
 	font-weight: bold;
 	margin-left: 201px;
 	margin-top: 6px;
@@ -478,9 +511,9 @@
 	z-index: 75;
 	width: 242px;
 	min-height: 27px;
-	color: #000000;
 	line-height: 25px;
 	font-size: 21px;
+	color: #000000;
 	font-weight: bold;
 	position: relative;
 }
@@ -525,13 +558,20 @@
 	width: 130px;
 	min-height: 19px;
 	text-align: center;
+	font-size: 18px;
 	color: #FFFFFF;
 	line-height: 22px;
-	font-size: 18px;
 	font-weight: bold;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 5px;
+}
+
+#pu328,#pu334
+{
+	width: 0.01px;
+	margin-left: 20px;
+	position: relative;
 }
 
 #u334
@@ -541,8 +581,8 @@
 	border-color: #000000;
 	background-color: #0078D7;
 	padding-bottom: 10px;
-	margin-left: 20px;
 	position: relative;
+	margin-right: -10000px;
 }
 
 #pwindows
@@ -572,9 +612,9 @@
 	z-index: 52;
 	width: 342px;
 	min-height: 27px;
-	color: #000000;
 	line-height: 34px;
 	font-size: 28px;
+	color: #000000;
 	font-weight: bold;
 	position: relative;
 	margin-right: -10000px;
@@ -607,6 +647,41 @@
 	margin-left: 74px;
 	margin-top: 10px;
 	position: relative;
+}
+
+#versionhistory
+{
+	position: relative;
+	width: 22px;
+	margin-right: -10000px;
+	margin-top: 202px;
+}
+
+#u907
+{
+	z-index: 127;
+	width: 920px;
+	border-color: #000000;
+	background-color: #FFFFFF;
+	padding-bottom: 13px;
+	margin-left: 20px;
+	top: -8px;
+	margin-bottom: -8px;
+	position: relative;
+}
+
+#u911
+{
+	z-index: 128;
+	width: 896px;
+	min-height: 308px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 8px;
+	left: 12px;
 }
 
 #u349-9
