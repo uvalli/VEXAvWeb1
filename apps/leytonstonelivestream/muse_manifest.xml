@@ -1,36 +1,42 @@
 <manifest alg="2" build="314" opt="false" iceEnabled="true">
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="4039847909" ref="phone>index"/>
-      <file name="master_b-master.css" crc="385006976" ref="phone>featured-broadcasts:phone>app-online:phone>app"/>
+      <file name="index.css" crc="126581077" ref="phone>index"/>
+      <file name="master_b-master.css" crc="4262659869" ref="phone>featured-broadcasts:phone>app-online:phone>app:phone>version-check"/>
       <file name="problem.css" crc="54810026" ref="phone>problem"/>
-      <file name="featured-broadcasts.css" crc="4178076332" ref="phone>featured-broadcasts"/>
-      <file name="app-online.css" crc="432595615" ref="phone>app-online"/>
-      <file name="app.css" crc="3812384191" ref="phone>app"/>
+      <file name="featured-broadcasts.css" crc="359569328" ref="phone>featured-broadcasts"/>
+      <file name="app-online.css" crc="438215449" ref="phone>app-online"/>
+      <file name="app.css" crc="3773767525" ref="phone>app"/>
+      <file name="version-check.css" crc="198611016" ref="phone>version-check"/>
+      <file name="iefonts_version-check.css" crc="92930589" ref="phone>version-check"/>
+      <file name="iefonts_featured-broadcasts.css" crc="92930589" ref="phone>featured-broadcasts"/>
+      <file name="iefonts_app-online.css" crc="4155195703" ref="phone>app-online"/>
+      <file name="iefonts_app.css" crc="92930589" ref="phone>app"/>
     </folder>
-    <file name="index.html" crc="192437747" mt="1492786057283" redirect="true"/>
-    <file name="app.html" crc="74959685" mt="1492786057344" redirect="true"/>
-    <file name="problem.html" crc="4123726330" mt="1492786303406" redirect="true"/>
-    <file name="featured-broadcasts.html" crc="171757631" mt="1492786057365" redirect="true"/>
-    <file name="app-online.html" crc="238779671" mt="1492786462854" redirect="true"/>
+    <file name="index.html" crc="75657746" mt="1492788303859" redirect="true"/>
+    <file name="app.html" crc="4197404886" mt="1492788325139" redirect="true"/>
+    <file name="problem.html" crc="4123726330" mt="1492788303847" redirect="true"/>
+    <file name="featured-broadcasts.html" crc="429987018" mt="1492788325147" redirect="true"/>
+    <file name="app-online.html" crc="193561918" mt="1492788325155" redirect="true"/>
+    <file name="version-check.html" crc="388564926" mt="1492788325163" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="417434784"/>
-    <file name="index.css" crc="216696076" ref="index"/>
+    <file name="index.css" crc="4237399910" ref="index"/>
     <file name="app.css" crc="310094692" ref="app"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:phone>index:phone>app:phone>problem:phone>featured-broadcasts:phone>app-online:app"/>
-    <file name="museutils.js" crc="3865766194" ref="index:phone>index:phone>app:phone>problem:phone>featured-broadcasts:phone>app-online:app"/>
-    <file name="jquery.musemenu.js" crc="3788803530" ref="phone>app:phone>featured-broadcasts:phone>app-online"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="291134478" ref="phone>index:phone>app:phone>featured-broadcasts:phone>app-online"/>
-    <file name="pie.js" crc="3827607177" ref="index:phone>index:phone>app:phone>featured-broadcasts:phone>app-online:app"/>
-    <file name="webpro.js" crc="3903299128" ref="phone>app:phone>problem:phone>featured-broadcasts:phone>app-online:app"/>
-    <file name="musewpslideshow.js" crc="138381373" ref="phone>app:phone>featured-broadcasts:phone>app-online:app"/>
-    <file name="jquery.museoverlay.js" crc="4250894771" ref="phone>app:phone>featured-broadcasts:phone>app-online:app"/>
-    <file name="touchswipe.js" crc="4156838003" ref="phone>app:phone>featured-broadcasts:phone>app-online:app"/>
-    <file name="jquery.watch.js" crc="4068933136" ref="index:phone>index:phone>app:phone>problem:phone>featured-broadcasts:phone>app-online:app"/>
-    <file name="jquery.tobrowserwidth.js" crc="3842421675" ref="phone>app:phone>index:phone>featured-broadcasts:phone>app-online"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:phone>index:phone>app:phone>problem:phone>featured-broadcasts:phone>app-online:app:phone>version-check"/>
+    <file name="museutils.js" crc="3865766194" ref="index:phone>index:phone>app:phone>problem:phone>featured-broadcasts:phone>app-online:app:phone>version-check"/>
+    <file name="jquery.musemenu.js" crc="3788803530" ref="phone>app:phone>featured-broadcasts:phone>app-online:phone>version-check"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="291134478" ref="phone>index:phone>app:phone>featured-broadcasts:phone>app-online:phone>version-check"/>
+    <file name="pie.js" crc="3827607177" ref="index:phone>index:phone>app:phone>featured-broadcasts:phone>app-online:app:phone>version-check"/>
+    <file name="webpro.js" crc="3903299128" ref="phone>app:phone>problem:phone>featured-broadcasts:phone>app-online:app:phone>version-check"/>
+    <file name="musewpslideshow.js" crc="138381373" ref="phone>app:phone>featured-broadcasts:phone>app-online:app:phone>version-check"/>
+    <file name="jquery.museoverlay.js" crc="4250894771" ref="phone>app:phone>featured-broadcasts:phone>app-online:app:phone>version-check"/>
+    <file name="touchswipe.js" crc="4156838003" ref="phone>app:phone>featured-broadcasts:phone>app-online:app:phone>version-check"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="index:phone>index:phone>app:phone>problem:phone>featured-broadcasts:phone>app-online:app:phone>version-check"/>
+    <file name="jquery.tobrowserwidth.js" crc="3842421675" ref="phone>app:phone>index:phone>featured-broadcasts:phone>app-online:phone>version-check"/>
     <file name="form_check.php" crc="4257733307" ref="phone>problem"/>
     <file name="form_throttle.php" crc="3966014863" ref="phone>problem"/>
     <file name="museredirect.js" crc="236897542" ref="index:app"/>
@@ -38,11 +44,10 @@
   </folder>
   <folder name="images">
     <file name="menu-icon284x284.png" crc="431974875" ref="phone>app"/>
-    <file name="isfahan_lotfollah_mosque_ceiling_symmetric.jpg" crc="4035192771" ref="phone>app:phone>featured-broadcasts:phone>app-online:app"/>
-    <file name="u680-4.png" crc="3936504582" ref="phone>app:phone>featured-broadcasts:phone>app-online"/>
-    <file name="u681-6.png" crc="101509074" ref="phone>app:phone>featured-broadcasts:phone>app-online"/>
-    <file name="lmaudio watermark.png" crc="4179882692" ref="phone>app:phone>problem:phone>index:phone>featured-broadcasts:phone>app-online:index"/>
-    <file name="u640-6.png" crc="3824855254" ref="phone>app:phone>featured-broadcasts:phone>app-online"/>
+    <file name="isfahan_lotfollah_mosque_ceiling_symmetric.jpg" crc="4035192771" ref="phone>app:phone>featured-broadcasts:phone>app-online:app:phone>version-check"/>
+    <file name="u680-4.png" crc="3936504582" ref="phone>app:phone>featured-broadcasts:phone>app-online:phone>version-check"/>
+    <file name="lmaudio watermark.png" crc="4179882692" ref="phone>app:phone>problem:phone>index:phone>featured-broadcasts:phone>app-online:index:phone>version-check"/>
+    <file name="u640-6.png" crc="3824855254" ref="phone>app:phone>featured-broadcasts:phone>app-online:phone>version-check"/>
     <file name="u150-17.png" crc="236349253" ref="phone>problem"/>
     <file name="u150-17-r.png" crc="401733888" ref="phone>problem"/>
     <file name="u150-17-m.png" crc="345933530" ref="phone>problem"/>
@@ -56,13 +61,12 @@
     <file name="win10.jpg" crc="64359680" ref="phone>index:index"/>
     <file name="information-1294813_960_720-u829-fr.png" crc="495489912" ref="phone>app-online"/>
     <file name="vexa.jpg" crc="292334523" ref="index"/>
-    <file name="u310-6.png" crc="384443296" ref="index"/>
     <file name="isfahan_lotfollah_mosque_ceiling_symmetric-page-fr.jpg" crc="3963110998" ref="app"/>
     <file name="lmaudio logo2.jpg" crc="158327559" ref="app"/>
     <file name="u412-6.png" crc="375279353" ref="app"/>
     <file name="u757-4.png" crc="3936504582" ref="app"/>
     <file name="u445-4.png" crc="3786583923" ref="app"/>
   </folder>
-  <file name="index.html" crc="4242905852" mt="1492786412150" redirect="true"/>
-  <file name="app.html" crc="4103705034" mt="1492786412166" redirect="true"/>
+  <file name="index.html" crc="293170839" mt="1492788584537" redirect="true"/>
+  <file name="app.html" crc="4103705034" mt="1492788303375" redirect="true"/>
 </manifest>
