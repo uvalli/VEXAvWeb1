@@ -74,7 +74,7 @@
 	z-index: 11;
 	width: 0.01px;
 	height: 71px;
-	padding-bottom: 154px;
+	padding-bottom: 169px;
 	margin-right: -10000px;
 	left: 1px;
 }
@@ -95,10 +95,8 @@
 	z-index: 13;
 	width: 373px;
 	height: 145px;
-	padding-left: 2px;
-	padding-top: 8px;
-	padding-right: 3px;
 	margin-right: -10000px;
+	padding: 8px 3px 15px 2px;
 }
 
 #menuu653
@@ -236,7 +234,7 @@
 	z-index: 57;
 	width: 0.01px;
 	height: 30px;
-	padding-bottom: 520px;
+	padding-bottom: 543px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 36px;
@@ -259,7 +257,7 @@
 {
 	z-index: 59;
 	width: 354px;
-	height: 344px;
+	height: 364px;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #999999;
@@ -267,7 +265,7 @@
 	background-color: rgba(255, 255, 255, 0.8);
 	margin-right: -10000px;
 	position: relative;
-	padding: 10px 6px 6px 10px;
+	padding: 10px 6px 9px 10px;
 	-pie-background: rgba(255, 255, 255, 0.8);
 }
 
@@ -276,8 +274,8 @@
 	z-index: 74;
 	width: 140px;
 	text-align: center;
-	line-height: 26px;
 	font-size: 22px;
+	line-height: 26px;
 	font-family: quantico, sans-serif;
 	font-weight: 700;
 	margin-left: 104px;
@@ -288,7 +286,7 @@
 {
 	width: 0.01px;
 	margin-left: 58px;
-	margin-top: 122px;
+	margin-top: 133px;
 	position: relative;
 }
 
@@ -331,14 +329,14 @@
 {
 	z-index: 60;
 	width: 354px;
-	min-height: 312px;
+	min-height: 332px;
 	background-color: #0071BC;
 	text-align: center;
 	color: #FFFFFF;
 	font-family: cantarell, sans-serif;
 	font-weight: 700;
-	top: -308px;
-	margin-bottom: -308px;
+	top: -319px;
+	margin-bottom: -319px;
 	position: relative;
 }
 
@@ -433,8 +431,8 @@
 	width: 20px;
 	min-height: 20px;
 	text-align: center;
-	color: #FFFFFF;
 	line-height: 20px;
+	color: #FFFFFF;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 6px;
@@ -450,7 +448,7 @@
 {
 	z-index: 3;
 	margin-left: 20px;
-	top: -499px;
+	top: -522px;
 	margin-bottom: -107px;
 }
 
@@ -464,7 +462,7 @@
 	background-color: transparent;
 	text-align: center;
 	margin-left: 3px;
-	top: -355px;
+	top: -378px;
 	margin-bottom: -244px;
 	position: relative;
 }
@@ -483,7 +481,7 @@
 	line-height: 17px;
 	font-weight: bold;
 	margin-left: 42px;
-	top: -100px;
+	top: -123px;
 	margin-bottom: -100px;
 	position: relative;
 }
@@ -493,7 +491,8 @@
 	z-index: 51;
 	width: 130px;
 	margin-left: 129px;
-	margin-top: 6px;
+	top: -17px;
+	margin-bottom: -17px;
 	position: relative;
 }
 
@@ -518,9 +517,9 @@
 	width: 130px;
 	min-height: 19px;
 	text-align: center;
+	font-size: 18px;
 	color: #FFFFFF;
 	line-height: 22px;
-	font-size: 18px;
 	font-weight: bold;
 	position: relative;
 	margin-right: -10000px;
