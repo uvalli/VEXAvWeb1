@@ -10,9 +10,9 @@
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="../css/site_global.css?417434784"/>
   <link rel="stylesheet" type="text/css" href="css/master_b-master.css?4262659869"/>
-  <link rel="stylesheet" type="text/css" href="css/app.css?3773767525" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/app.css?4260950498" id="pagesheet"/>
   <!--[if lt IE 9]>
-  <link rel="stylesheet" type="text/css" href="css/iefonts_app.css?92930589"/>
+  <link rel="stylesheet" type="text/css" href="css/iefonts_app.css?3798698239"/>
   <![endif]-->
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -21,7 +21,7 @@ var __adobewebfontsappname__ = "muse";
 </script>
   <!-- JS includes -->
   <script type="text/javascript">
-   document.write('\x3Cscript src="' + (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//webfonts.creativecloud.com/karla:n7,n4:all.js" type="text/javascript">\x3C/script>');
+   document.write('\x3Cscript src="' + (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//webfonts.creativecloud.com/cantarell:n7:all;karla:n7,n4:all;quantico:n7:all.js" type="text/javascript">\x3C/script>');
 </script>
     <!--custom head HTML-->
   <script>
@@ -51,6 +51,35 @@ var __adobewebfontsappname__ = "muse";
    <div class="position_content" id="page_position_content">
     <div class="clearfix colelem" id="pu639"><!-- group -->
      <div class="rgba-background browser_width grpelem" id="u639"><!-- simple frame --></div>
+     <div class="PamphletWidget clearfix grpelem" id="pamphletu969"><!-- none box -->
+      <div class="popup_anchor" id="u981popup">
+       <div class="ContainerGroup clearfix" id="u981"><!-- stack box -->
+        <div class="Container rgba-background clearfix grpelem" id="u982"><!-- group -->
+         <div class="clearfix grpelem" id="u983-4"><!-- content -->
+          <p>Important Notice</p>
+         </div>
+         <div class="clearfix grpelem" id="u990-10"><!-- content -->
+          <p id="u990-2">This App is being discontinued!</p>
+          <p id="u990-4">A New Leytonstone Masjid App is now available, and with some great new features.</p>
+          <p id="u990-6"><span id="u990-5">From the 1st July 2017, this app will cease to work, and will be replaced by the new Leytonstone Masjid App. Until then, you can still continue to use this app, however, if you wish to continue listening to the live stream beyond this date, you will need to upgrade to the new app.You can download the new Leytonstone Masjid App Now by using the link below.</span></p>
+          <p id="u990-8"><span id="u990-7">Click on the link below to upgrade, or click the X in the top right corner of this window, to close this screen and continue using the LMAudio App.</span></p>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="ThumbGroup clearfix grpelem" id="u972"><!-- none box -->
+       <div class="popup_anchor">
+        <div class="Thumb popup_element museBGSize" id="u973"><!-- simple frame --></div>
+       </div>
+      </div>
+      <div class="popup_anchor">
+       <div class="PamphletCloseButton PamphletLightboxPart popup_element clearfix" id="u993"><!-- group -->
+        <div class="clearfix grpelem" id="u994-4"><!-- content -->
+         <p>x</p>
+        </div>
+       </div>
+      </div>
+     </div>
      <div class="PamphletWidget clearfix grpelem" id="pamphletu643"><!-- none box -->
       <div class="popup_anchor" id="u651popup">
        <div class="ContainerGroup clearfix" id="u651"><!-- stack box -->
@@ -122,11 +151,11 @@ Audience Size: <script src="http://scripts.myradiostream.com/s41/27464/listeners
   <script src="../scripts/museutils.js?3865766194" type="text/javascript"></script>
   <script src="../scripts/jquery.musepolyfill.bgsize.js?291134478" type="text/javascript"></script>
   <script src="../scripts/jquery.tobrowserwidth.js?3842421675" type="text/javascript"></script>
-  <script src="../scripts/jquery.musemenu.js?3788803530" type="text/javascript"></script>
   <script src="../scripts/webpro.js?3903299128" type="text/javascript"></script>
   <script src="../scripts/musewpslideshow.js?138381373" type="text/javascript"></script>
   <script src="../scripts/jquery.museoverlay.js?4250894771" type="text/javascript"></script>
   <script src="../scripts/touchswipe.js?4156838003" type="text/javascript"></script>
+  <script src="../scripts/jquery.musemenu.js?3788803530" type="text/javascript"></script>
   <script src="../scripts/jquery.watch.js?4068933136" type="text/javascript"></script>
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -134,6 +163,7 @@ Audience Size: <script src="http://scripts.myradiostream.com/s41/27464/listeners
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 $('.browser_width').toBrowserWidth();/* browser width elements */
 Muse.Utils.prepHyperlinks(true);/* body */
+Muse.Utils.initWidget('#pamphletu969', function(elem) { new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'stack',event:'click',deactivationEvent:'none',autoPlay:false,displayInterval:3000,transitionStyle:'fading',transitionDuration:1000,hideAllContentsFirst:false,shuffle:false,enableSwipe:false}); });/* #pamphletu969 */
 Muse.Utils.initWidget('.MenuBar', function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
 Muse.Utils.initWidget('#pamphletu643', function(elem) { new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'stack',event:'mouseover',deactivationEvent:'mouseout_both',autoPlay:false,displayInterval:3000,transitionStyle:'fading',transitionDuration:1000,hideAllContentsFirst:true,shuffle:false,enableSwipe:true}); });/* #pamphletu643 */
 Muse.Utils.fullPage('#page');/* 100% height page */

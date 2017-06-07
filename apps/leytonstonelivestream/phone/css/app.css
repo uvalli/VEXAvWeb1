@@ -61,9 +61,188 @@
 	margin-right: -10000px;
 }
 
-#pamphletu643
+#pamphletu969
 {
 	z-index: 21;
+	width: 0.01px;
+	height: 30px;
+	padding-bottom: 543px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 13px;
+	left: 5px;
+}
+
+#u981
+{
+	position: absolute;
+	width: 372px;
+	top: 189px;
+}
+
+#u981popup
+{
+	z-index: 22;
+}
+
+#u982
+{
+	z-index: 23;
+	width: 370px;
+	height: 383px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #999999;
+	background-color: #FFFFFF;
+	background-color: rgba(255, 255, 255, 0.8);
+	margin-right: -10000px;
+	position: relative;
+	-pie-background: rgba(255, 255, 255, 0.8);
+}
+
+#u983-4
+{
+	z-index: 34;
+	width: 280px;
+	text-align: center;
+	font-size: 22px;
+	line-height: 26px;
+	font-family: quantico, sans-serif;
+	font-weight: 700;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 10px;
+	left: 35px;
+}
+
+#u990-10
+{
+	z-index: 24;
+	width: 354px;
+	min-height: 332px;
+	background-color: #0071BC;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: cantarell, sans-serif;
+	font-weight: 700;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 42px;
+	left: 10px;
+}
+
+#u990-2
+{
+	font-size: 16px;
+	line-height: 19px;
+	padding: 15px 10px 5px;
+}
+
+#u990-4
+{
+	font-size: 16px;
+	line-height: 19px;
+	padding: 5px 10px;
+}
+
+#u990-6,#u990-8
+{
+	font-size: 18px;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+	padding: 5px 10px;
+}
+
+#u990-5,#u990-7
+{
+	font-size: 12px;
+	line-height: 14px;
+}
+
+#u972
+{
+	z-index: 38;
+	width: 35px;
+	position: relative;
+	margin-right: -10000px;
+	left: 333px;
+}
+
+#u973
+{
+	position: absolute;
+	width: 35px;
+	height: 30px;
+	border-color: #C4C4C4;
+	background: transparent url("../../images/information-1294813_960_720-u973-fr.png") no-repeat center center;
+	background-size: contain !important;
+}
+
+#u973:hover
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	border-color: #999999;
+	margin: 0px;
+	background-size: contain !important;
+}
+
+#u973.PamphletThumbSelected
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	border-color: #000000;
+	margin: 0px;
+	background-size: contain !important;
+}
+
+#u993
+{
+	position: absolute;
+	width: 30px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #0071BC;
+	padding-bottom: 4px;
+	top: 194px;
+	left: 332px;
+}
+
+#u993:hover
+{
+	border-color: #6B6B6B;
+	background-color: #999999;
+	margin: 0px;
+}
+
+#u993:active
+{
+	border-color: #6B6B6B;
+	background-color: #6B6B6B;
+	margin: 0px;
+}
+
+#u994-4
+{
+	z-index: 41;
+	width: 20px;
+	min-height: 20px;
+	text-align: center;
+	line-height: 20px;
+	color: #FFFFFF;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 6px;
+	left: 6px;
+}
+
+.PamphletWidget .ThumbGroup .Thumb, .PamphletNextButton, .PamphletPrevButton, .PamphletCloseButton /* pamphlet2 */
+{
+	cursor: pointer;
+}
+
+#pamphletu643
+{
+	z-index: 45;
 	width: 0.01px;
 	height: 71px;
 	padding-bottom: 225px;
@@ -73,7 +252,7 @@
 
 #u651popup
 {
-	z-index: 22;
+	z-index: 46;
 }
 
 #u651
@@ -84,7 +263,7 @@
 
 #u652
 {
-	z-index: 23;
+	z-index: 47;
 	width: 373px;
 	height: 205px;
 	margin-right: -10000px;
@@ -93,7 +272,7 @@
 
 #menuu653
 {
-	z-index: 24;
+	z-index: 48;
 	width: 180px;
 }
 
@@ -203,14 +382,14 @@
 
 #u680-4
 {
-	z-index: 57;
+	z-index: 81;
 	margin-left: 16px;
 	margin-top: 14px;
 }
 
 #u681-8
 {
-	z-index: 49;
+	z-index: 73;
 	width: 187px;
 	min-height: 155px;
 	margin-left: 186px;
@@ -220,7 +399,7 @@
 
 #u686
 {
-	z-index: 61;
+	z-index: 85;
 	width: 71px;
 	margin-right: -10000px;
 }
@@ -243,7 +422,7 @@
 
 #u641
 {
-	z-index: 63;
+	z-index: 87;
 	width: 105px;
 	margin-right: -10000px;
 	left: 137px;
@@ -253,7 +432,7 @@
 {
 	z-index: 3;
 	margin-left: 20px;
-	top: -208px;
+	top: -499px;
 	margin-bottom: -107px;
 }
 
@@ -267,8 +446,8 @@
 	background-color: transparent;
 	text-align: center;
 	margin-left: 3px;
-	top: -64px;
-	margin-bottom: -64px;
+	top: -355px;
+	margin-bottom: -244px;
 	position: relative;
 }
 
@@ -286,7 +465,8 @@
 	line-height: 17px;
 	font-weight: bold;
 	margin-left: 42px;
-	margin-top: 11px;
+	top: -100px;
+	margin-bottom: -100px;
 	position: relative;
 }
 
